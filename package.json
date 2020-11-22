@@ -6,7 +6,7 @@
     "tools",
     "uploader",
     "free-pdk"
-  ,
+  ],
   "homepage": "https://free-pdk.github.io/",
   "license": "GPL-3.0",
   "system": [
